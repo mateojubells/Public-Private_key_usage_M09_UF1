@@ -9,7 +9,7 @@ The project demonstrates:
 3. Sending the encrypted message over a network.
 4. Decrypting the message with a private key.
 
-##Technologies Used
+## Technologies Used
 - C#
 - .NET Framework
 - TCP Networking
